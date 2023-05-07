@@ -1,0 +1,38 @@
+Report created: 
+	5/7/2023	11:32:27 PM
+
+Project name: Untitled Project.aep
+
+Source files collected to: 
+	C:\Users\Admin\Desktop\qc_giay
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	
+Number of collected files:  12
+
+Size of collected files:  128 MB
+
+Collected source files: 
+	C:\Users\Admin\Downloads\028a2523-57f8-4c84-8356-0a6d965aebea.png
+	C:\Users\Admin\Downloads\19af392b-171e-4993-ba57-37bed184824d.png
+	C:\Users\Admin\Downloads\339460697_1680769292377621_8981720422778950928_n.mp4
+	C:\Users\Admin\Downloads\339679881_1249586462312509_8738864919087831000_n.jpg
+	C:\Users\Admin\Downloads\77d852dd-48bf-427c-9a38-dc71229666e7.png
+	C:\Users\Admin\Downloads\9ea1f7c6-aef7-4620-aa8b-7ff79d5e1efa.png
+	C:\Users\Admin\Downloads\cau-tao-nike-vaporfly-4-flyknit-1000x757.jpg
+	C:\Users\Admin\Downloads\fd754708-faae-4dc9-ab35-bb368a041b89.png
+	C:\Users\Admin\Downloads\Hoaprox-Ngau-nbsp-Hung-Remix-rodie.mp3
+	C:\Users\Admin\Downloads\Nike Air Zoom Pegasus 40.mp4
+	C:\Users\Admin\Downloads\run (1080p).mp4
+	C:\Users\Admin\Downloads\SeekPng.com_nike-png_3910645.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Times New Roman”, Font style: “Regular”
+
